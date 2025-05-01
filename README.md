@@ -1,6 +1,6 @@
 ## Gabriel Olivera [LILLO]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B;Sou+desenvolvedor+Front-End)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)](https://www.linkedin.com/in/gabriellogandev)
 
